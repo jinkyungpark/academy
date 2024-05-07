@@ -12,4 +12,8 @@ public class Account {
     public String getName() {
         return name;
     }
+
+    public int getBalance() {
+        return balance;
+    }
 }
