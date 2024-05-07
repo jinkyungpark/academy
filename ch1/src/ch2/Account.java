@@ -8,4 +8,8 @@ public class Account {
     public String getAccountNo() {
         return accountNo;
     }
+
+    public String getName() {
+        return name;
+    }
 }
